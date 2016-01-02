@@ -22,14 +22,14 @@ VARIABLE_NAME = media.Movie('<movie_name>',
     '<link to trailer on youtube>')
 ```
 For example:
-
+```
 AVATAR = media.Movie('Avatar',
     'A paraplegic marine dispatched to the moon Pandora on a unique mission'
     ' becomes torn between following his orders and protecting the world'
     ' he feels is his home.',
     'https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg',
     'https://youtu.be/5PSNL1qE6VY')
-
+```
 ## Running the Application
 
 To generate the web page, run the applicaton as follows:
